@@ -9,7 +9,7 @@
         <input type="text" name="suche" value="Suche...">
     <br>
     <table border="1" style="border-collapse: collapse;">
-
+        
     <br>
     <tr>
     <th>ISBN</th>
